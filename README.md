@@ -1,6 +1,6 @@
-# Helidon Quickstart MP
+# Microprofile Health Check & Metrics understanding
 
-Sample Helidon MP project that includes multiple REST operations.
+Sample REST operations.
 
 ## Build and run
 
